@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+I am Python and C++ developer.
+
+Just want to test the view counter. 🙂
+
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/kuznetsov-m/github-profile-views-counter">
-       <img width="110px" src="https://komarev.com/ghpvc/?username=kuznetsov-m&color=DE002D">
+       <img width="110px" src="https://komarev.com/ghpvc/?username=kuznetsov-m&color=0f1217">
    </a>
 </div>
 
