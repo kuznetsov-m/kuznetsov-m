@@ -2,7 +2,7 @@
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/kuznetsov-m/github-profile-views-counter">
-       <img width="100px" src="https://komarev.com/ghpvc/?username=kuznetsov-m&color=DE002D">
+       <img width="110px" src="https://komarev.com/ghpvc/?username=kuznetsov-m&color=DE002D">
    </a>
 </div>
 
