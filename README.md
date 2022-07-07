@@ -8,6 +8,9 @@ Just want to test the view counter. 🙂
    <a href="https://github.com/kuznetsov-m/github-profile-views-counter">
        <img width="110px" src="https://komarev.com/ghpvc/?username=kuznetsov-m&color=0f1217">
    </a>
+   <a href="https://www.codewars.com/users/kuznetsov-m">
+      <img width="110px" src="https://www.codewars.com/users/kuznetsov-m/badges/micro">
+   </a>
 </div>
 
 <!--
